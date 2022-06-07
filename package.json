@@ -1,6 +1,6 @@
 {
   "name": "libphonenumber-js-utils-kiwik",
-  "version": "8.10.23",
+  "version": "8.10.24",
   "googleLibphonenumberVersion": "8.10.23",
   "description": "",
   "main": "dist/libphonenumber.js",
